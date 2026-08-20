@@ -46,4 +46,4 @@ Rock-Paper-Scissors-C-Project/
 ├── main.c
 ├── README.md
 └── demo/
-    └── project-demo-video-link.txt
+    └── https://drive.google.com/file/d/1uZCwTtIdAK038cRsKFJIgL8We86NBY0p/view?usp=sharing
