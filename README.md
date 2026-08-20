@@ -37,3 +37,13 @@ The main purpose of this project is to demonstrate the practical implementation 
 - C Programming Language
 - GCC Compiler
 - Code::Blocks / Dev-C++ / VS Code
+
+## Project Structure
+
+```text
+Rock-Paper-Scissors-C-Project/
+│
+├── main.c
+├── README.md
+└── demo/
+    └── project-demo-video-link.txt
